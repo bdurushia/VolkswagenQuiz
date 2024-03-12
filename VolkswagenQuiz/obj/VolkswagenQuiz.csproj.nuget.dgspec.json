@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkwagenQuiz\\VolkwagenQuiz\\VolkwagenQuiz.csproj": {}
+    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\VolkswagenQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkwagenQuiz\\VolkwagenQuiz\\VolkwagenQuiz.csproj": {
+    "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\VolkswagenQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkwagenQuiz\\VolkwagenQuiz\\VolkwagenQuiz.csproj",
-        "projectName": "VolkwagenQuiz",
-        "projectPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkwagenQuiz\\VolkwagenQuiz\\VolkwagenQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\VolkswagenQuiz.csproj",
+        "projectName": "VolkswagenQuiz",
+        "projectPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\VolkswagenQuiz.csproj",
         "packagesPath": "C:\\Users\\SK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkwagenQuiz\\VolkwagenQuiz\\obj\\",
+        "outputPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
