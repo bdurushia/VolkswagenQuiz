@@ -1,0 +1,14 @@
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\bin\Debug\net8.0\VolkwagenQuiz.exe
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\bin\Debug\net8.0\VolkwagenQuiz.deps.json
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\bin\Debug\net8.0\VolkwagenQuiz.runtimeconfig.json
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\bin\Debug\net8.0\VolkwagenQuiz.dll
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\bin\Debug\net8.0\VolkwagenQuiz.pdb
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.AssemblyInfoInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.AssemblyInfo.cs
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.csproj.CoreCompileInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.dll
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\refint\VolkwagenQuiz.dll
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.pdb
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\VolkwagenQuiz.genruntimeconfig.cache
+C:\Users\SK\OneDrive\Desktop\repos\VolkwagenQuiz\VolkwagenQuiz\obj\Debug\net8.0\ref\VolkwagenQuiz.dll
