@@ -16,13 +16,28 @@ namespace VolkwagenQuiz
         public void PrintQuestion()
         {
             Console.WriteLine(QuestionText);
-            Console.WriteLine($"{Answers[0]}\n{Answers[1]}\n{Answers[2]}\n{Answers[3]}\n");
+            Console.WriteLine($"{Answers[0].Item1}\n{Answers[1].Item1}\n{Answers[2].Item1}\n{Answers[3].Item1}\n");
         }
 
-        public void PrintAnswer(string correctAnswer)
+        public void PrintAnswer()
         {
             var userAnswer = Console.ReadLine().ToLower();
-            Console.WriteLine(userAnswer == correctAnswer ? "Correct!" : "Incorrect");
+            bool isCorrect = false;
+
+            foreach (var answer in Answers)
+            {
+                if (answer.Item2 == true && answer.Item1.ToLower().StartsWith(userAnswer))
+                { 
+                    isCorrect = true;
+                    break;
+                }
+                else
+                {
+                    isCorrect = false;
+                }
+            }
+
+            Console.WriteLine(isCorrect ? "\nCorrect!\n" : "\nIncorrect\n");
         }
     }
 }

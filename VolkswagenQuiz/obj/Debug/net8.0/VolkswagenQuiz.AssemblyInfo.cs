@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolkswagenQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3708a883d58047fed41fa790a8fb908e5d7ddf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a03309753229c7d9d3a20538adbffaac68c5dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolkswagenQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolkswagenQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

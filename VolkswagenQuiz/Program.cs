@@ -1,4 +1,6 @@
-﻿namespace VolkwagenQuiz
+﻿using VolkwagenQuiz;
+
+namespace VolkswagenQuiz
 {
     internal class Program
     {
@@ -17,21 +19,21 @@
             question1.Answers.Add(("C. Heinrich Stein", false));
             question1.Answers.Add(("D. Adolf Hitler", false));
 
-            var correctAnswer = question1.Answers[0];
-
-            // Console.WriteLine(correctAnswer.Item1);
-            // Console.WriteLine(correctAnswer.Item2);
-
-            // ToDo - Find Correct Answer - Loop?
-
             question1.PrintQuestion();
-            //question1.PrintAnswer(correctAnswer);
+            question1.PrintAnswer();
 
-            var question2 = new Question() {QuestionText = "Question 2"};
+            var question2 = new Question() 
+            {
+                QuestionText = "Question 2: When was Volkswagen founded?\n"
+            };
 
-            //question2.Answers.Add("Q2 Answer");
+            question2.Answers.Add(("A. 1942", false));
+            question2.Answers.Add(("B. 1951", false));
+            question2.Answers.Add(("C. 1937", true));
+            question2.Answers.Add(("D. 1945", false));
 
-            //Console.WriteLine(question2.Answers[0]);
+            question2.PrintQuestion();
+            question2.PrintAnswer();
         }
     }
 }
