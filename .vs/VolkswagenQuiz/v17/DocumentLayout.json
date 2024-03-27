@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\iquestionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|c:\\users\\sk\\onedrive\\desktop\\repos\\volkswagenquiz\\volkswagenquiz\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6A3CCA-4C91-4017-961C-C1F7CD4088D5}|VolkswagenQuiz\\VolkswagenQuiz.csproj|solutionrelative:volkswagenquiz\\questionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,39 +33,91 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 221,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\appsettings.json",
+              "RelativeDocumentMoniker": "VolkswagenQuiz\\appsettings.json",
+              "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\appsettings.json",
+              "RelativeToolTip": "VolkswagenQuiz\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T23:04:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-26T23:01:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\Program.cs",
               "RelativeDocumentMoniker": "VolkswagenQuiz\\Program.cs",
               "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\Program.cs",
               "RelativeToolTip": "VolkswagenQuiz\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T18:19:58.061Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 215,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\Question.cs",
               "RelativeDocumentMoniker": "VolkswagenQuiz\\Question.cs",
               "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\Question.cs",
               "RelativeToolTip": "VolkswagenQuiz\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T18:20:00.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\QuestionRepository.cs",
+              "RelativeDocumentMoniker": "VolkswagenQuiz\\QuestionRepository.cs",
+              "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\QuestionRepository.cs",
+              "RelativeToolTip": "VolkswagenQuiz\\QuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:46:33.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuestionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\IQuestionRepository.cs",
+              "RelativeDocumentMoniker": "VolkswagenQuiz\\IQuestionRepository.cs",
+              "ToolTip": "C:\\Users\\SK\\OneDrive\\Desktop\\repos\\VolkswagenQuiz\\VolkswagenQuiz\\IQuestionRepository.cs",
+              "RelativeToolTip": "VolkswagenQuiz\\IQuestionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:41:53.899Z",
               "EditorCaption": ""
             }
           ]
